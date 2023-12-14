@@ -105,7 +105,7 @@ CompleteMigrateBucketFeeAmount = 0
 SpOperatorAddress = ''
 # required
 OperatorPrivateKey = ''
-# required
+# optional
 FundingPrivateKey = ''
 # required
 SealPrivateKey = ''
@@ -187,13 +187,13 @@ ReadRecordKeepTimeDay = 0
 ReadRecordDeleteLimit = 0
 
 [P2P]
-# required
+# optional
 P2PPrivateKey = ''
-# required
+# optional
 P2PAddress = ''
-# required
+# optional
 P2PAntAddress = ''
-# required
+# optional
 P2PBootstrap = []
 # optional
 P2PPingPeriod = 0
