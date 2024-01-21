@@ -56,7 +56,7 @@ Create a private bucket and share it with specific individuals.
 
 - Resource management with smart contracts: Understand the concepts of [resource mirroring](/docs/guide/core-concept/cross-chain/mirror)
 
-### A Quick Start about Data Access Control Through Smart Contract
+### A Quick Start About Data Access Control Through Smart Contract
 
 - Understand the [programmability concepts](docs/guide/core-concept/programmability)
 - Follow Smart Contract SDK [tutorial](/docs/tutorials/access-control/quick-start)
@@ -80,7 +80,7 @@ Create a private bucket and share it with specific individuals.
 
 ## Setup
 
-- [Key managemen](https://docs.bnbchain.org/greenfield-docs/docs/guide/core-concept/key-management)
+- [Key management](https://docs.bnbchain.org/greenfield-docs/docs/guide/core-concept/key-management)
 - [Transfer](token-transfer.md) between greenfield address
 - [Token bridge](https://dcellar.io/wallet)
 
